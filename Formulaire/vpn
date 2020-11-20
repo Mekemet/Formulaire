@@ -1,0 +1,23 @@
+VPN
+lan to lan comunication
+
+IPSEC ensemble de protocole qui utilient des algorithmes permatent de securiser la communication dans un reseau ip
+	ISAKMP (Internet Security Association Key Management Protocole)
+
+Objectif de la Securite (cia)
+-Disponibilite
+-Confidentialite
+-Integrite
+
+Objectif de la cryptographie
+-Confidentialite  ->Chiffrement
+-Authentification ->Certificat
+-Non Repudiation  ->Signature
+-Integrite        ->Hachage
+
+Type de VPN
+-site to site VPN
+-Nomade remate Access
+-MPLS
+-DMVPN
+-GETVPN
